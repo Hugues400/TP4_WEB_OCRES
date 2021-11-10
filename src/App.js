@@ -7,12 +7,14 @@ import Board from './Board';
 function App() {
   return (
     <div>
+      <div>
       <Bouton name="Jeanne"/>
       <Bouton name="Martine"/>
       <Bouton name="Claude"/>
-      <Board>
-        
-      </Board>
+      </div>
+      <div>
+        <Board/>
+      </div>
     </div>
 
     
