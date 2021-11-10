@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Text from './text.js';
 
 import React from 'react';
 
@@ -21,6 +20,8 @@ function App() {
     <Bouton name="Claude" />
     </div>
   );
+
+
 }
 
 //export default App;
